@@ -14,4 +14,6 @@ This source Leaked By t.me/iotbotnets
 Setup in tut.txt
 ```
 
+# Upload for educational only
+
 Enjoy!
