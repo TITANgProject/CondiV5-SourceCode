@@ -1,7 +1,15 @@
-#CondiV5-SourceCode
+<div align=center>
+ 
+# 🚀 Condi botnet Ver 5 🚀
 
-I did not create CondiV5-SourceCode
-This source Leaked By t.me/iotbotnets All Credits to t.me/iotbotnets
+```sh
+Setup in tut.txt
+```
+
+
+
+I did not create CondiV5-SourceCode All Credits to Zxcr9999
+This source Leaked By t.me/iotbotnets
 
 Enjoy!
 
